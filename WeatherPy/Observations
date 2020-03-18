@@ -1,0 +1,13 @@
+- Looking at the scatter plots I was able to confirm that my code is right because 
+Latitude vs. Temperature plot made sense. It is expected to see warmer temperature along the 
+equator at latitude 0. The getting farther away from the equator you can see how the temperature
+starts to decrease. As always there are some outliers, but there are other variables for that that we
+are not taken into account.
+
+- The scatter plot of Latitude vs, Wind Speed was very interesting to see the results. The majority of the results
+seem to be the same along the scatter plot, but getting closer to latitude 40-60 it looks like the winds are much
+stronger compared to latitude -60 and -50. One might think that there should be similar speeds above and below the
+equator, but this seems not to be the case. 
+
+- Not much can be said about the cloudiness scatter plot. The data seems similar along the latitude, the only outliers
+are the north and south pole, it seems that those places are the ones with less clouds.
